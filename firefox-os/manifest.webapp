@@ -1,0 +1,15 @@
+{
+	"name":"Firestick",
+	"version":"1.0",
+	"description":"Joystick simples",
+	"launch_path":"/index.html",
+	"developer": {
+		"name":"Rodrigo Passos",
+		"url":"http://www.rodrigop.com.br"
+	},
+	"icons": {
+		"60":"/imagens/oranlogo.png",
+		"128":"/imagens/oranlogo.png"
+	},
+	"permissions":{}
+}
